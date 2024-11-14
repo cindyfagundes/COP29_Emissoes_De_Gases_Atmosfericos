@@ -37,3 +37,7 @@ Este projeto tem como objetivo analisar as emissões de gases atmosféricos no B
 Este projeto nasceu da minha preocupação com as **mudanças climáticas** 🌡️ e o impacto das **emissões de gases de efeito estufa** no nosso planeta 🌍. Após ser convidado a compartilhar minha visão sobre **sustentabilidade e as mudanças climáticas** 🌱 pelo LinkedIn Notícias, percebi a importância de trazer esses dados à tona, para que mais pessoas possam entender as **fontes** e as **tendências das emissões** no Brasil.
 
 Analisando os dados, o projeto evidencia as regiões e setores com maior contribuição para as emissões, destacando o papel do **desmatamento** 🌲, da **agricultura** 🌾 e da **produção de energia** ⚡. Com base nessas informações, é possível promover a conscientização sobre a urgência em adotar práticas mais sustentáveis ♻️ e **políticas públicas** 🏛️ voltadas para a **mitigação das emissões** e o **combate às mudanças climáticas** 🌎.
+
+**BASE DE DADOS DO REPORT**
+
+**Fonte:** Sistema de Estimativa de Emissões e Remoções de Gases de Efeito Etufa (SEEG) - Observatório do Clima (OC), 2024/v11.2.
